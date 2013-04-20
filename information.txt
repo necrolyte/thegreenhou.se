@@ -1,0 +1,23 @@
+Greenhouse for Earth/Mars Environment
+--------------------------------------------------------------
+
+Dry farming was used for years, using a method of locking moisture into the ground during rainy season. Crop yields
+are less with this method, but the crop itself has a high concentration of nutrients.
+
+Goals
+-----------------------------------------
+Deployable
+Lightweight
+Can be re-planted
+Repurposed for other uses
+Self Sustatining
+Light Frequency Manipulation (Artifical Light Sources)
+
+Possible Crops
+------------------------------------------
+Potatoes
+Carrots
+Soybeans
+Alges
+Fungus (Mushrooms?)
+
