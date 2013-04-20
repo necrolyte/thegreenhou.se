@@ -1,0 +1,26 @@
+Water Bladder
+Dome Construction
+Living Quarters in front half (o2 environment)
+Mid-Section is greenhouse
+Rear-Section is water/o2 storage tanks
+Crop is already planted in media on 'Growing Platform'
+
+
+Starts by being vacuum packed into container
+    On deploying/landing -
+        Structure self-inflates
+          Onboard pressurized tanks
+          External compressor with atmosphere input
+
+        Growing Platform Folds down
+        Plumbing folds down
+        Internal Atmosphere is created by bringing in external co2
+          Possible conversion to o2
+          Onboard Nitrogen tank?
+
+          Seperate gasses on input to store Oxygen, CO2, Nitrogen, Argon
+          Store each gas separately and then combine them in the greenhouse area to match Earth's Atmosphere
+
+
+
+          
