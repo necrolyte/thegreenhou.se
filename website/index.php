@@ -21,14 +21,14 @@
 
 <table width='100%'>
  <tr>
-  <td align='left' width='150'>
-    <a href='http://theclubhou.se' target='_new'><img src='images/logo-theclubhouse-web.png' alt='TheClubhou.se' width='150' border=0></a>
+  <td align='left' valign='middle' width='250'>
+    <a href='http://theclubhou.se' target='_new'><img src='images/logo-theclubhouse-web.png' alt='TheClubhou.se' width='200' border=0></a>
   </td>
-  <td align='center' width='100%'>
-    <a href='?i=home'><img src='images/logo.png' width='400' height='150' border=1 alt='TheGreenHou.se'></a>
+  <td align='center' valign='middle' width='100%'>
+    <a href='?i=home'><img src='images/thegreenhouselogo.png' height='300' border=0 alt='TheGreenHou.se'></a>
   </td>
-  <td align='right' width='200'>
-    <a href='http://spaceappschallenge.org/' target='_new'><img src='images/spaceapps.png' alt='International Space Apps' width='200' border=0></a>
+  <td align='right' valign='middle' width='250'>
+    <a href='http://spaceappschallenge.org/' target='_new'><img src='images/spaceapps.png' alt='International Space Apps' width='250' border=0></a>
   </td>
  </tr>
 </table>
