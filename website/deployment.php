@@ -1,7 +1,7 @@
 <center>
 <table width='100%' cellspacing=20>
 <tr>
-<td width='20%'>
+<td width='20%' valign='top'>
   <img src='images/parachute.jpg'>
 </td>
 <td align='center' width='60%' valign='top'>
@@ -27,7 +27,7 @@ the growth process. The planting surface is raised from the ground level to allo
 system under the tables.<br>
 <br>
 </td>
-<td width='20%'>
+<td width='20%' valign='top'>
   <img src='images/parachute.jpg'>
 </td>
 </tr></table>
