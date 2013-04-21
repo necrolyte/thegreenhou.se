@@ -5,12 +5,12 @@
     <td>
 	<b>Earth's Atmosphere</b>
 	<hr width='50%' size='1' color='white'>
-	<img src='images/atmosphere_gasses.jpg' width='450'>
+	<img src='images/atmosphere_gasses.jpg' height='300'>
     </td>
     <td>
 	<b>Mars' Atmosphere</b>
-	<hr width='50%' size='1' color='white' width='450'>
-	<img src='images/mars_gasses.jpg'>
+	<hr width='50%' size='1' color='white'>
+	<img src='images/mars_gasses.jpg' height='300'>
     </td>
   </tr>
 </table>
@@ -37,5 +37,6 @@ Non-cryogenic air separation processes are most likely to be a suitable and cost
     </td>
   </tr>
 </table>
+<br><Br>
 Referenced from: <a class='menulink' href='http://www.uigi.com/compair.html' target='_new'><b>Universal Industrial Gases, Inc.</b></a>
 </center>

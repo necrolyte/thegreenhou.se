@@ -60,7 +60,7 @@
 <br><Br>
 <hr width='100%' color='white' size='1'>
 <center>
-  Copyright theClubhou.se / Chris Williamson 2013
+  Copyright theClubhou.se / theGreenhou.se 2013
 </center>
 <br>
 </body>
