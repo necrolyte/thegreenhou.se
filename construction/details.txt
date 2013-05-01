@@ -19,8 +19,8 @@ Starts by being vacuum packed into container
           Onboard Nitrogen tank?
 
           Seperate gasses on input to store Oxygen, CO2, Nitrogen, Argon
-          Store each gas separately and then combine them in the greenhouse area to match Earth's Atmosphere
-
+          Store each gas separately
+          Remix gasses to create sustaining atmosphere internally
 
 
           
